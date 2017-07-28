@@ -3,3 +3,4 @@ my_test_2_line
 my_test_3_line
 my_test_4_line
 my_test_5_line
+my_test_6_line
